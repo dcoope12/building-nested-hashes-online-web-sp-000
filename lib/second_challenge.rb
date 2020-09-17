@@ -1,3 +1,4 @@
+require_relative '../lib/second_challenge.rb'
 def second_challenge
   epic_tragedy = {
     :montague => {
