@@ -1,4 +1,4 @@
-require_relative '../lib/second_challenge.rb'
+
 def second_challenge
   epic_tragedy = {
     :montague => {
@@ -13,7 +13,7 @@ def second_challenge
       },
       :hero_friends => []
     }
-  }
+
     :capulet => {
       :patriarch => {
 
